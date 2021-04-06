@@ -1,10 +1,10 @@
 import React from "react";
-import Button from "../components/Button";
+import Bmi from "../components/Bmi";
 
 const playground = () => {
   return (
     <div>
-      <Button />
+      <Bmi />
     </div>
   );
 };
